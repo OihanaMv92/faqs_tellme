@@ -1,0 +1,42 @@
+                .tamanio {
+                    font-size: 12px;
+                }
+                
+                @media (min-width: 768px) {
+                    .background-color-3 {
+                        background-color: rgb(255, 255, 255) !important;
+                    }
+                }
+                
+                @media (min-width: 600px) {
+                    .fondoColor {
+                        background-color: #92919138;
+                    }
+                }
+                
+                img {
+                    width: 32px;
+                    height: 32px;
+                    border-radius: 50%;
+                    position: relative;
+                    border-color: white;
+                    border-style: solid;
+                }
+                
+                .Circulo {
+                    width: 32px;
+                    height: 32px;
+                    vertical-align: bottom;
+                    border-radius: 50%;
+                    background-color: #ACB4F8;
+                    display: inline-block;
+                    text-align: center;
+                    line-height: 32px;
+                    font-size: 15px;
+                    font-weight: bold;
+                    color: rgb(255, 255, 255);
+                }
+                
+                .colorIcono {
+                    color: #929191;
+                }
